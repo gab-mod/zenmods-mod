@@ -14,7 +14,7 @@ You need Zen Browser, `zsh` and `python3`.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/gabrielscolt0/zenmods-mod.git
+   git clone https://github.com/gab-mod/zenmods-mod.git
    cd zenmods-mod
    ```
 2. Copy the mods into your Zen profile:
