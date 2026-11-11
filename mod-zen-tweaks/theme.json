@@ -4,7 +4,7 @@
   "description": "A frosted purple glass highlight on the active tab only, with a thin violet ring and a darker sidebar.",
   "homepage": "https://github.com/gab-mod/zenmods-mod/tree/main/mod-zen-tweaks",
   "author": "mod",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "tags": [
     "tabs",
     "sidebar"

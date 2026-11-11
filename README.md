@@ -6,7 +6,9 @@ My mods for [Zen Browser](https://zen-browser.app/).
 
 ### [Mod Zen Tweaks](./mod-zen-tweaks)
 
-Frosted purple glass on the active tab only, with a thin violet gradient ring. It also hides the container color line and gives the sidebar a darker background. Works in both the compact and full-size sidebar.
+Frosted purple glass on the active tab only, with a thin violet gradient ring. Thin 28px tabs, and small arrows in place of folder icons. It also hides the container color line and gives the sidebar a darker background. Works in both the compact and full-size sidebar.
+
+<img src="./mod-zen-tweaks/images/sidebar.png" alt="Zen sidebar with Mod Zen Tweaks" width="320">
 
 ## Install
 
